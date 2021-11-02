@@ -1,0 +1,1 @@
+export 'package:practica_5/widgets/detail_background.dart';
